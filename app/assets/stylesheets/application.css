@@ -13,3 +13,14 @@
  *= require_tree .
  *= require_self
  */
+
+ /* Universal */
+ body {
+
+ }
+
+ .navigation {
+   width: 15%;
+   background-color: #B57281;
+   color: white;
+ }
